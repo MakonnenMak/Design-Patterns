@@ -6,8 +6,4 @@
 
 int main(void){
 	FiniteAutomata  test;
-	test.addChar('a');
-	test.addChar('b');
-	test.addChar('a');
-	test.isValid();
 }
